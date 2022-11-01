@@ -1,0 +1,11 @@
+C:\计算机实践\计算机作业3\计算机作业3\bin\Debug\计算机作业3.exe
+C:\计算机实践\计算机作业3\计算机作业3\bin\Debug\计算机作业3.pdb
+C:\计算机实践\计算机作业3\计算机作业3\bin\Debug\计算机作业3.xml
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\计算机作业3.vbproj.GenerateResource.Cache
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\计算机作业3.exe
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\计算机作业3.xml
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\计算机作业3.pdb
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\WindowsApplication1.From1.resources
+C:\计算机实践\计算机作业3\计算机作业3\obj\x86\Debug\WindowsApplication1.Form3.resources
